@@ -9,6 +9,7 @@ $(function(){
         autoplay:true,
         arrows:false,
         autoplaySpeed:10000,
+        pauseOnHover:false,
     })
     
     //mainCon02
